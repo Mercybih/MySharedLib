@@ -1,5 +1,5 @@
-def welcome(name){
-  echo "hello ${name}, you just used a shared library"
+def welcome(name, devops_class){
+  echo "Hello ${name} from Class ${devop_class}, you just used a shared library"
 }
 
 def newfile(file_name){
